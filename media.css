@@ -1,0 +1,227 @@
+@media screen and (max-width:1190px) {
+    body {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        height: 100vh;
+        overflow: hidden;
+        width: 100%;
+    }
+
+    .dropdown {
+        top: 3cm;
+        position: absolute;
+        left: 55%;
+        font-size: 20px;
+        border: 2px solid black;
+        padding: 5px 5px 5px;
+        cursor: pointer;
+    }
+}
+
+@media screen and (max-width:792px) {
+    body {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        height: 100vh;
+        overflow: hidden;
+        width: 100%;
+    }
+
+    .dropdown {
+        top: 3cm;
+        position: absolute;
+        left: 60%;
+        font-size: 20px;
+        border: 2px solid black;
+        padding: 5px 5px 5px;
+        cursor: pointer;
+    }
+}
+
+@media screen and (max-width:602px) {
+    body {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        height: 100vh;
+        overflow: hidden;
+        width: 100%;
+    }
+
+    .dropdown {
+        top: 3cm;
+        position: absolute;
+        left: 65%;
+        font-size: 20px;
+        border: 2px solid black;
+        padding: 5px 5px 5px;
+        cursor: pointer;
+    }
+}
+
+@media screen and (max-width:474px) {
+    #inpAge {
+        top: 3cm;
+        position: absolute;
+        left: 40%;
+        width: 3cm;
+        font-size: 25px;
+
+    }
+
+    #inpHei {
+        position: absolute;
+        font-size: 25px;
+        top: 5.5cm;
+        left: 40%;
+        width: 4cm;
+    }
+
+    .age {
+        top: 2.5cm;
+        position: absolute;
+        left: 40%;
+    }
+
+
+
+    .dropdown {
+        top: 4cm;
+        position: absolute;
+        left: 40%;
+        font-size: 20px;
+        border: 2px solid black;
+        padding: 5px 5px 5px;
+        cursor: pointer;
+    }
+
+
+    button {
+        font-size: 20px;
+        padding: 3px 3px 3px;
+        position: absolute;
+        top: 7cm;
+        left: 40%;
+    }
+}
+
+@media screen and (max-width:374px) {
+    #inpAge {
+        top: 3cm;
+        position: absolute;
+        left: 30%;
+        width: 3cm;
+        font-size: 25px;
+
+    }
+
+    #inpHei {
+        position: absolute;
+        font-size: 25px;
+        top: 5.5cm;
+        left: 30%;
+        width: 4cm;
+    }
+
+    .age {
+        top: 2.5cm;
+        position: absolute;
+        left: 30%;
+    }
+
+
+
+    .dropdown {
+        top: 4cm;
+        position: absolute;
+        left: 30%;
+        font-size: 20px;
+        border: 2px solid black;
+        padding: 5px 5px 5px;
+        cursor: pointer;
+    }
+
+
+    button {
+        font-size: 20px;
+        padding: 3px 3px 3px;
+        position: absolute;
+        top: 7cm;
+        left: 30%;
+    }
+}
+
+@media screen and (max-width:272px) {
+    button {
+        font-size: 15px;
+        padding: 3px 3px 3px;
+        position: absolute;
+        top: 7cm;
+        left: 30%;
+    }
+
+    #inpHei {
+        position: absolute;
+        font-size: 20px;
+        top: 5.5cm;
+        left: 30%;
+        width: 3cm;
+    }
+}
+
+@media screen and (max-width:222px) {
+    h3 {
+        top: 20px;
+        position: absolute;
+        font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+        font-size: 15px;
+    }
+}
+
+@media screen and (max-width:206px) {
+    #inpAge {
+        top: 3cm;
+        position: absolute;
+        left: 25%;
+        width: 3cm;
+        font-size: 20px;
+
+    }
+
+    #inpHei {
+        position: absolute;
+        font-size: 20px;
+        top: 5.5cm;
+        left: 25%;
+        width: 3cm;
+    }
+
+    .age {
+        top: 2.5cm;
+        position: absolute;
+        left: 25%;
+    }
+
+
+
+    .dropdown {
+        top: 4cm;
+        position: absolute;
+        left: 25%;
+        font-size: 20px;
+        border: 2px solid black;
+        padding: 5px 5px 5px;
+        cursor: pointer;
+    }
+
+
+    button {
+        font-size: 15px;
+        padding: 3px 3px 3px;
+        position: absolute;
+        top: 7cm;
+        left: 25%;
+    }
+}
